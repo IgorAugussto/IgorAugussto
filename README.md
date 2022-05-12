@@ -14,8 +14,14 @@ Feel free !
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Igor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align "center" alt="Igor-JavaScript" height="30" width="40" src=![image](https://user-images.githubusercontent.com/86482384/168004388-86af790f-1f82-4366-9eb4-a28b0003fce6.png)>
+  <img align="center" alt="Igor-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Igor-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
+  <html>
+      <body>
+            <i class="devicon-nextjs-original-wordmark"></i>
+      </body>
+    </html>
   
   ##
   
