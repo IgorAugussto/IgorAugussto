@@ -4,7 +4,7 @@ Here you will see a little bit about my projects.
 
 Feel free !
 
-- 🌱 I’m currently learning C# and JavaScript
+- 🌱 I’m currently learning Java and C#
 
 <div align="center">
   <a href="https://github.com/IgorAugussto">
@@ -14,6 +14,7 @@ Feel free !
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Igor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Igor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Igor-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Igor-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
