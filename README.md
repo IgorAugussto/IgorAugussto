@@ -4,7 +4,7 @@ Here you will see a little bit about my projects.
 
 Feel free !
 
-- 🌱 I’m currently learning Java and C#
+- 🌱 I’m currently learning Java and Kotlin
 
 <div align="center">
   <a href="https://github.com/IgorAugussto">
