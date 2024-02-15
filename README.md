@@ -24,6 +24,8 @@ A passionate learner currently pursuing a degree in Analysis and Systems Develop
     <img align="center" alt="Igor-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
   <div>
 
+  <br>
+
    ### Here are the languages that I have interacted with in the past, so I have some experience about them.
   <div style="display: inline_block">
     <img align="center" alt="Igor-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
