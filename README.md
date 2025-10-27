@@ -1,6 +1,6 @@
 ### Hello, I'm Igor Augusto !
 
-A passionate learner currently pursuing a degree in Analysis and Systems Development. With a solid foundation in programming, I've immersed myself in the world of development for the past three years.
+A passionate learner with a degree in Analysis and Systems Development. With a solid foundation in programming, I've immersed myself in the world of development for the past three years.
 
 💻 My expertise lies in crafting dynamic and efficient solutions using technologies like React and Java. Whether it's building interactive user interfaces or working on the backend, I love bringing ideas to life through code.
 
