@@ -42,7 +42,9 @@ I have hands-on experience with **TOTVS ERP**, system integration, and agile met
 ### 🗓️ [Doka Planner](#)
 A web application built with **Java (Spring Boot)** to manage room and environment reservations.  
 Allows user registration, availability control, and efficient scheduling.
-🔗 Code:
+
+🔗 Code: https://github.com/IgorAugussto/DokaPlanner
+
 **Stack:** Java • Spring Boot • JPA • REST APIs • Docker • SQL • Git/GitHub  
 
 ---
@@ -50,7 +52,9 @@ Allows user registration, availability control, and efficient scheduling.
 ### 💼 [Personal Portfolio](#)
 A website built with **React** and **TailwindCSS** to showcase my projects, experiences, and tech stacks.  
 Fully **responsive**, with **dark/light mode** and a strong focus on **UX**.
-🔗 Live:
+
+🔗 Live: https://personal-portfolio-sepia-alpha.vercel.app/
+
 **Stack:** React • TailwindCSS • Hooks • JavaScript • Git/GitHub  
 
 ---
@@ -58,7 +62,7 @@ Fully **responsive**, with **dark/light mode** and a strong focus on **UX**.
 ### 📊 [Análise de Chamados](#)  
 Interactive Streamlit dashboard for technical ticket analysis and SLA tracking.  
 Features real-time KPIs, filters, clean Plotly charts, and overdue alerts — all with 100% fictitious data.  
-🔗 Live: https://seu-app.streamlit-aqui.streamlit.app  
+🔗 Live: https://controledechamados-ynsrgiooszunk7vmhmdvfa.streamlit.app/  
 
 **Stack:** Python • Streamlit • Pandas • Plotly • Openpyxl • GitHub • Streamlit Cloud    
 
@@ -68,7 +72,8 @@ Features real-time KPIs, filters, clean Plotly charts, and overdue alerts — al
 A web app developed with **Angular**, consuming REST APIs to display and organize Pokémon data.  
 Includes features such as **favoriting, creating teams, and data persistence** using Firebase.
 
-🔗 Live: 
+🔗 Code: https://github.com/IgorAugussto/PokeApp/tree/main
+
 **Stack:** Angular • TypeScript • REST APIs • Firebase • UX/UI  
 
 ---
