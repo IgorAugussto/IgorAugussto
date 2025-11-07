@@ -41,66 +41,35 @@ I have hands-on experience with **TOTVS ERP**, system integration, and agile met
 
 ### 🗓️ [Doka Planner](#)
 A web application built with **Java (Spring Boot)** to manage room and environment reservations.  
-Allows user registration, availability control, and efficient scheduling.  
+Allows user registration, availability control, and efficient scheduling.
+🔗 Code:
 **Stack:** Java • Spring Boot • JPA • REST APIs • Docker • SQL • Git/GitHub  
 
 ---
 
 ### 💼 [Personal Portfolio](#)
 A website built with **React** and **TailwindCSS** to showcase my projects, experiences, and tech stacks.  
-Fully **responsive**, with **dark/light mode** and a strong focus on **UX**.  
+Fully **responsive**, with **dark/light mode** and a strong focus on **UX**.
+🔗 Live:
 **Stack:** React • TailwindCSS • Hooks • JavaScript • Git/GitHub  
+
+---
+
+### 📊 [Análise de Chamados](#)  
+Interactive Streamlit dashboard for technical ticket analysis and SLA tracking.  
+Features real-time KPIs, filters, clean Plotly charts, and overdue alerts — all with 100% fictitious data.  
+🔗 Live: https://seu-app.streamlit-aqui.streamlit.app  
+
+**Stack:** Python • Streamlit • Pandas • Plotly • Openpyxl • GitHub • Streamlit Cloud    
 
 ---
 
 ### 🎮 [Interactive Pokédex](#)
 A web app developed with **Angular**, consuming REST APIs to display and organize Pokémon data.  
-Includes features such as **favoriting, creating teams, and data persistence** using Firebase.  
+Includes features such as **favoriting, creating teams, and data persistence** using Firebase.
+
+🔗 Live: 
 **Stack:** Angular • TypeScript • REST APIs • Firebase • UX/UI  
-
----
-
-### 📊 [ApoioTech Dashboard](#)
-A **fully functional dashboard** developed with **Streamlit**, **Python**, **Pandas**, and **Plotly**, designed for **technical ticket management and SLA tracking**.  
-It enables quick and interactive analysis of support data, generating KPIs, filters, and clean visual insights — all with **100% fictitious data** for portfolio safety.
-
-🔗 **Live app:** [https://seu-app-streamlit-aqui.streamlit.app](https://seu-app-streamlit-aqui.streamlit.app) *(replace with your real link)*  
-
-#### 🎯 Project Goals
-- Build an interactive web dashboard for quick analysis of technical support tickets (Milldesk)  
-- Automatic SLA calculation (remaining days + status)  
-- Real-time KPIs and visual alerts for critical deadlines  
-- Interactive filters by status and priority  
-- Clean, professional charts using Plotly  
-- 100% safe for portfolio (fake data)  
-
-#### 🚀 Implemented Features
-| Feature | Description |
-|----------|-------------|
-| **Excel Upload** | Anyone can upload a file → dashboard updates instantly |
-| **KPIs** | Total Tickets · Open · Closed |
-| **Interactive Filters** | Status + Priority (multi-select) |
-| **Priority Chart** | Grouped bar chart by Status |
-| **Type Chart (Top 8 + Others)** | Clean donut chart – avoids clutter |
-| **Critical SLA (≤ 3 days)** | Table highlighting overdue tickets |
-| **Sorted Table** | Orders by nearest due date |
-| **Responsive Design** | Works perfectly on mobile devices |
-
-#### 🧰 Technologies Used
-| Technology | Purpose |
-|-------------|----------|
-| **Python 3.11** | Main language |
-| **Streamlit** | Interactive web interface |
-| **Pandas** | Data manipulation and cleaning |
-| **Plotly Express** | Interactive charts |
-| **Openpyxl** | Excel (.xlsx) reading |
-| **GitHub + Streamlit Cloud** | Versioning and free deploy |
-
-#### 🔒 100% Fake Data (Safe for Portfolio)
-- 2,407 fake records generated via Python script  
-- Same structure as the original Milldesk (40 columns)  
-- All names, emails, IDs, and dates are fictional  
-- Realistic SLA and priority distribution for believable results  
 
 ---
 
