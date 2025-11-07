@@ -10,35 +10,37 @@ I have hands-on experience with **TOTVS ERP**, system integration, and agile met
 
 ## 🧠 Technologies & Tools
 
-### 🚀 Back-end
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 💻 Here are the languages ​​I have the most experience with
+<div style="display: inline_block">
+  <img align="center" alt="Igor-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Igor-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+   <img align="center" alt="Igor-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+   <img align="center" alt="Igor-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
+  <img align="center" alt="Igor-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Igor-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Igor-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Igor-TailWind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Igor-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
+<div>
 
-### 🎨 Front-end
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br>
 
-### 🧰 Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### ⚙️ Here are the languages that I have interacted with in the past, so I have some experience with them.
+<div style="display: inline_block">
+  <img align="center" alt="Igor-Kotlin" height="27" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg">
+  <img align="center" alt="Igor-Vue.Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Igor-TailWind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="Igor-TailWind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg">
+  <img align="center" alt="Igor-TailWind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
+  <img align="center" alt="Igor-TailWind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
+</div>
 
 ---
 
 ## 🧩 Featured Projects
 
 ### 🗓️ [Doka Planner](#)
-A web application built with **Java (Spring Boot)** to manage environment and room reservations.  
+A web application built with **Java (Spring Boot)** to manage room and environment reservations.  
 Allows user registration, availability control, and efficient scheduling.  
 **Stack:** Java • Spring Boot • JPA • REST APIs • Docker • SQL • Git/GitHub  
 
@@ -55,6 +57,50 @@ Fully **responsive**, with **dark/light mode** and a strong focus on **UX**.
 A web app developed with **Angular**, consuming REST APIs to display and organize Pokémon data.  
 Includes features such as **favoriting, creating teams, and data persistence** using Firebase.  
 **Stack:** Angular • TypeScript • REST APIs • Firebase • UX/UI  
+
+---
+
+### 📊 [ApoioTech Dashboard](#)
+A **fully functional dashboard** developed with **Streamlit**, **Python**, **Pandas**, and **Plotly**, designed for **technical ticket management and SLA tracking**.  
+It enables quick and interactive analysis of support data, generating KPIs, filters, and clean visual insights — all with **100% fictitious data** for portfolio safety.
+
+🔗 **Live app:** [https://seu-app-streamlit-aqui.streamlit.app](https://seu-app-streamlit-aqui.streamlit.app) *(replace with your real link)*  
+
+#### 🎯 Project Goals
+- Build an interactive web dashboard for quick analysis of technical support tickets (Milldesk)  
+- Automatic SLA calculation (remaining days + status)  
+- Real-time KPIs and visual alerts for critical deadlines  
+- Interactive filters by status and priority  
+- Clean, professional charts using Plotly  
+- 100% safe for portfolio (fake data)  
+
+#### 🚀 Implemented Features
+| Feature | Description |
+|----------|-------------|
+| **Excel Upload** | Anyone can upload a file → dashboard updates instantly |
+| **KPIs** | Total Tickets · Open · Closed |
+| **Interactive Filters** | Status + Priority (multi-select) |
+| **Priority Chart** | Grouped bar chart by Status |
+| **Type Chart (Top 8 + Others)** | Clean donut chart – avoids clutter |
+| **Critical SLA (≤ 3 days)** | Table highlighting overdue tickets |
+| **Sorted Table** | Orders by nearest due date |
+| **Responsive Design** | Works perfectly on mobile devices |
+
+#### 🧰 Technologies Used
+| Technology | Purpose |
+|-------------|----------|
+| **Python 3.11** | Main language |
+| **Streamlit** | Interactive web interface |
+| **Pandas** | Data manipulation and cleaning |
+| **Plotly Express** | Interactive charts |
+| **Openpyxl** | Excel (.xlsx) reading |
+| **GitHub + Streamlit Cloud** | Versioning and free deploy |
+
+#### 🔒 100% Fake Data (Safe for Portfolio)
+- 2,407 fake records generated via Python script  
+- Same structure as the original Milldesk (40 columns)  
+- All names, emails, IDs, and dates are fictional  
+- Realistic SLA and priority distribution for believable results  
 
 ---
 
@@ -79,41 +125,3 @@ Includes features such as **favoriting, creating teams, and data persistence** u
 ---
 
 > “Clean code is simple to understand and hard to break.” – *Robert C. Martin*
-
----
-
-<br><br>
-
-<div align="center">
-  <a href="https://github.com/IgorAugussto">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=IgorAugussto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorAugussto&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-    
-<br><br>
-  
-  ### Here are the languages ​​I have the most experience with
-  <div style="display: inline_block">
-    <img align="center" alt="Igor-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
-    <img align="center" alt="Igor-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-    <img align="center" alt="Igor-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Igor-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" alt="Igor-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-  <div>
-
-  <br>
-
-   ### Here are the languages that I have interacted with in the past, so I have some experience about them.
-  <div style="display: inline_block">
-    <img align="center" alt="Igor-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="center" alt="Igor-Kotlin" height="27" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-    <img align="center" alt="Igor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Igor-Vue.Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
-    <img align="center" alt="Igor-TailWind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  </div>
-
-  ##
-  
-  <div>
-  <a href="https://www.linkedin.com/in/igor-augusto-5353a8191" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
