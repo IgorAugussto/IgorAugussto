@@ -1,10 +1,87 @@
-### Hello, I'm Igor Augusto !
+# 👋 Hi there, I'm Igor Augusto!
 
-A passionate learner with a degree in Analysis and Systems Development. With a solid foundation in programming, I've immersed myself in the world of development for the past three years.
+I'm a **Full Stack Java Developer**, passionate about building solutions that combine **efficiency, scalability, and great user experience (UX)**.  
+Currently focused on developing **web applications using Spring Boot and React**, applying best practices in architecture, testing, and responsive design.  
+I have hands-on experience with **TOTVS ERP**, system integration, and agile methodologies (Scrum/Kanban).  
 
-💻 My expertise lies in crafting dynamic and efficient solutions using technologies like React and Java. Whether it's building interactive user interfaces or working on the backend, I love bringing ideas to life through code.
+💡 I’m always eager to learn, share knowledge, and turn ideas into code — and code into real value!
 
-🚀 Join me on this coding journey, and let's create amazing things together!
+---
+
+## 🧠 Technologies & Tools
+
+### 🚀 Back-end
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🎨 Front-end
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🧰 Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🧩 Featured Projects
+
+### 🗓️ [Doka Planner](#)
+A web application built with **Java (Spring Boot)** to manage environment and room reservations.  
+Allows user registration, availability control, and efficient scheduling.  
+**Stack:** Java • Spring Boot • JPA • REST APIs • Docker • SQL • Git/GitHub  
+
+---
+
+### 💼 [Personal Portfolio](#)
+A website built with **React** and **TailwindCSS** to showcase my projects, experiences, and tech stacks.  
+Fully **responsive**, with **dark/light mode** and a strong focus on **UX**.  
+**Stack:** React • TailwindCSS • Hooks • JavaScript • Git/GitHub  
+
+---
+
+### 🎮 [Interactive Pokédex](#)
+A web app developed with **Angular**, consuming REST APIs to display and organize Pokémon data.  
+Includes features such as **favoriting, creating teams, and data persistence** using Firebase.  
+**Stack:** Angular • TypeScript • REST APIs • Firebase • UX/UI  
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorAugussto&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorAugussto&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 Connect with me
+
+📍 **Campinas/SP – Brazil**  
+📧 [igor.aferreirac@gmail.com](mailto:igor.aferreirac@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/igor-augusto-5353a8191)  
+💻 [GitHub](https://github.com/IgorAugussto)  
+
+---
+
+> “Clean code is simple to understand and hard to break.” – *Robert C. Martin*
+
+---
+
 <br><br>
 
 <div align="center">
