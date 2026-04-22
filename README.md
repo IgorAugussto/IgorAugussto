@@ -22,7 +22,7 @@ I have hands-on experience with **TOTVS ERP**, system integration, and agile met
   <img align="center" alt="Igor-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
   <img align="center" alt="Igor-TailWind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Igor-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-<div>
+</div>
 
 <br>
 
@@ -40,7 +40,7 @@ I have hands-on experience with **TOTVS ERP**, system integration, and agile met
 
 ## 🧩 Featured Projects
 
-### 🗓️ [Doka Planner](#)
+### 🗓️ [Domus](#)
 A web application built with **Java (Spring Boot)** to manage room and environment reservations.  
 Allows user registration, availability control, and efficient scheduling.
 
