@@ -82,16 +82,6 @@ Fully **responsive**, with **dark/light mode** and a strong focus on **UX**.
 
 ---
 
-### 🎮 [Interactive Pokédex](https://github.com/IgorAugussto/PokeApp/tree/main)
-A web app developed with **Angular**, consuming REST APIs to display and organize Pokémon data.  
-Includes features such as **favoriting, creating teams, and data persistence** using Firebase.
-
-🔗 Code: https://github.com/IgorAugussto/PokeApp/tree/main
-
-**Stack:** Angular • TypeScript • REST APIs • Firebase • UX/UI  
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
