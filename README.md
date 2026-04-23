@@ -41,7 +41,7 @@ I have professional experience with **TOTVS ERP**, system integration, and agile
 
 <br>
 
-### ⚙️ Here are the languages and tools that I have interacted and leaning with in the past, so I have some experience with them.
+### ⚙️ Here are the languages and tools that I have interacted with recently, so I have some experience with them.
 
 <table border="0" cellspacing="0" cellpadding="8">
   <tr>
